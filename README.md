@@ -6,19 +6,20 @@
 
 ## 🚀 About Me
 - 🏠 Working from home (fully remote since 2021)
-- 💻 Fullstack Engineer at PT Aswamedha Teknologi Nusantara (Mar 2024–Current)
+- 💻 Fullstack Engineer at PT Aegis Ultima Teknologi (Jun 2025–Current)
 - 📍 Jember, East Java, Indonesia
 - 🎓 Universitas Jember — B.Sc. Information Systems (GPA 3.35, Bidikmisi Scholarship)
 
 ## 💼 Experience
-- **Fullstack Engineer** @ PT Aswamedha Teknologi Nusantara — Mar 2024–Current
+- **Fullstack Engineer** @ PT Aegis Ultima Teknologi — Jun 2025–Current
+- **Fullstack Engineer** @ PT Aswamedha Teknologi Nusantara — Mar 2024–Jun 2025
 - **Front End Engineer** @ PT Majoo Teknologi Indonesia — Apr 2022–Feb 2024
 - **Front End Developer** @ PT Alpabit Digital Inovasi — Sep 2021–Apr 2022
 - **Front End Developer / IT Staff** @ PT Difini Teknologi — Jan 2021–Aug 2021
 - **Front-end Programmer** @ PT Mitra Kreasindo — Nov 2019–Dec 2020
 
 ## 🛠️ Tech Stack
-React, TypeScript, Vite, Redux, Zustand, Axios, Material UI, Node.js, Express.js, WebRTC, Nx Monorepo, Storybook
+React, TypeScript, Vite, Redux, Zustand, Axios, Material UI, Node.js, Express.js, WebRTC, Nx Monorepo, Storybook, Laravel, Go, MongoDB, Next.js, PostgreSQL
 
 ## 🎨 Portfolio
 [mthariqnugroho.crevado.com](https://mthariqnugroho.crevado.com/)
