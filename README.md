@@ -22,7 +22,7 @@
 React, TypeScript, Vite, Redux, Zustand, Axios, Material UI, Node.js, Express.js, WebRTC, Nx Monorepo, Storybook, Laravel, Go, MongoDB, Next.js, PostgreSQL
 
 ## 🎨 Portfolio
-[mthariqnugroho.crevado.com](https://mthariqnugroho.crevado.com/)
+[thariqngrho.vercel.app](https://thariqngrho.vercel.app/)
 
 ## 📊 Stats
 ![GitHub Stats](https://github-readme-stats-eight-theta.vercel.app/api?username=thariq1211&show_icons=true&theme=dark)
