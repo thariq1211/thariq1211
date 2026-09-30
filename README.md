@@ -25,7 +25,7 @@ React, TypeScript, Vite, Redux, Zustand, Axios, Material UI, Node.js, Express.js
 [mthariqnugroho.crevado.com](https://mthariqnugroho.crevado.com/)
 
 ## 📊 Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=thariq1211&show_icons=true&theme=dark)
+![GitHub Stats](https://github-readme-stats-eight-theta.vercel.app/api?username=thariq1211&show_icons=true&theme=dark)
 
 ## 🔗 Connect
 - [Facebook](https://facebook.com/thariqnugroho)
